@@ -1,5 +1,5 @@
 <?
 
-	echo 'hello git';
+	echo 'hello git learn';
 
 ?>
